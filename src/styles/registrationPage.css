@@ -1,0 +1,10 @@
+.registration{
+    height:100vh;
+    width:100vw;
+    background: white;
+}
+.layoutRegis{
+    position:relative;
+    left:20em;
+    top:10em;
+}
