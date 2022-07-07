@@ -7,7 +7,7 @@ const ListItem = ({ id, title, delHandler, doneHandler, done }) => {
     const day=date.getDate();
     const year=date.getFullYear()
     const minutes=date.getMinutes();
-    const hour = d.getHours();
+    const hour = date.getHours();
  return `${day}/${month+1}/${year}---${hour}:${minutes}`;
   }
   console.log(newDate());
