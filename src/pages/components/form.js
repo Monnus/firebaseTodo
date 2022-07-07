@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 import React from "react";
 import {Card , Form,Container} from "react-bootstrap"
